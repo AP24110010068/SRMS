@@ -1,0 +1,5 @@
+0001 Charan 96.00
+0002 Santosh 97.00
+0003 Dimple 99.00
+0004 Harika 95.00
+0005 Titiksha 98.00
